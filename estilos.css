@@ -1,0 +1,8 @@
+div{text-align: center;font-size: 15px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin: 15px;padding: 15px;border: 5px solid; }
+.nave{list-style: none;border: 2px solid;
+ padding: 9px;display: inline-block;background:rgb(32, 224, 208);}
+ .metas{list-style: none;background:rgb(32, 224, 208);border: 2px solid;margin: 3px;}
+ h1,h2{background:rgb(32, 224, 208);border: 2px solid ;}
+ 
